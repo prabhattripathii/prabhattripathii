@@ -1,4 +1,4 @@
-[![MasterHead](https://prabhattripathi.in/prabhattripathi%20logo.svg)](https://prabhattripathi.in)
+[![MasterHead](prabhattripathi%20logo.svg)](https://prabhattripathi.in)
 <h1 align="center">Hello👋, I'm Prabhat Tripathi</h1>
 <h3 align="center">🚀 A passionate Software Developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="prabhattripathi%20home.svg"/>
