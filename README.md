@@ -1,7 +1,7 @@
 [![MasterHead](https://prabhattripathi.in/prabhattripathi%20logo.svg)](https://prabhattripathi.in)
 <h1 align="center">Hello👋, I'm Prabhat Tripathi</h1>
 <h3 align="center">🚀 A passionate Software Developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://prabhattripathi.in/prabhattripathi%20home.svg"/>
+<img align="right" alt="Coding" width="400" src="prabhattripathi%20home.svg"/>
 - 👨‍💻 Find out more at prabhattripathi.in
 
 - 💬 Ask me about **React, Django, JavaScript, Python, Database, DevOps etc**
